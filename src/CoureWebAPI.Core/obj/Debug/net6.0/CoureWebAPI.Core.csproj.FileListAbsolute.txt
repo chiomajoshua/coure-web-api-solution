@@ -1,0 +1,15 @@
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\CoureWebAPI.Core.deps.json
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\CoureWebAPI.Core.dll
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\ref\CoureWebAPI.Core.dll
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\CoureWebAPI.Core.pdb
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\CoureWebAPI.Data.dll
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\bin\Debug\net6.0\CoureWebAPI.Data.pdb
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.AssemblyInfo.cs
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.csproj.CopyComplete
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.dll
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\ref\CoureWebAPI.Core.dll
+C:\Users\JoshuaChioma\source\repos\coure-web-api-solution\src\CoureWebAPI.Core\obj\Debug\net6.0\CoureWebAPI.Core.pdb
