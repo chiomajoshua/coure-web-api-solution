@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoureWebAPI.Data", "..\Cour
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoureWebAPI.Core", "..\CoureWebAPI.Core\CoureWebAPI.Core.csproj", "{1BE56503-6C79-48FB-966E-56F94FE59B83}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B0C4822B-FD6A-4AB1-8E16-E4F3DCA1B17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoureWebAPI.Tests", "..\CoureWebAPI.Tests\CoureWebAPI.Tests.csproj", "{92A6AB35-5CE1-4530-B72E-72B3B16798B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +31,16 @@ Global
 		{1BE56503-6C79-48FB-966E-56F94FE59B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BE56503-6C79-48FB-966E-56F94FE59B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BE56503-6C79-48FB-966E-56F94FE59B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92A6AB35-5CE1-4530-B72E-72B3B16798B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92A6AB35-5CE1-4530-B72E-72B3B16798B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92A6AB35-5CE1-4530-B72E-72B3B16798B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92A6AB35-5CE1-4530-B72E-72B3B16798B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92A6AB35-5CE1-4530-B72E-72B3B16798B9} = {B0C4822B-FD6A-4AB1-8E16-E4F3DCA1B17B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39156026-CEC3-4F6A-968B-46B862917B65}

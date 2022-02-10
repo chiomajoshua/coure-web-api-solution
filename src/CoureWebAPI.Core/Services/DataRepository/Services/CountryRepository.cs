@@ -14,11 +14,11 @@ namespace CoureWebAPI.Core.Services.DataRepository.Services
 
         public bool Any(string countryCode)
         {
-            return _countries.Any(x => x.CountryCode == Convert.ToInt32(countryCode));
+            return _countries.Any(x => x.CountryCode == countryCode);
         }
         public Data.Entities.Country FindAllAsync(string countryCode)
         {
-            return _countries.FirstOrDefault(x => x.CountryCode == Convert.ToInt32(countryCode));
+            return _countries.FirstOrDefault(x => x.CountryCode == countryCode);
         }
 
         private List<Data.Entities.Country> PopulateInMemoryCountryData()
@@ -30,7 +30,7 @@ namespace CoureWebAPI.Core.Services.DataRepository.Services
                 {
                     Id = 1,
                     Name = "Nigeria",
-                    CountryCode = 234,
+                    CountryCode = "234",
                     CountryIso = "NG",
                     CountryDetails = _countriesDetails.Where(c => c.CountryId == 1)
                 },
@@ -38,7 +38,7 @@ namespace CoureWebAPI.Core.Services.DataRepository.Services
                 {
                     Id = 2,
                     Name = "Ghana",
-                    CountryCode = 233,
+                    CountryCode = "233",
                     CountryIso = "GH",
                     CountryDetails = _countriesDetails.Where(c => c.CountryId == 2)
                 },
@@ -46,7 +46,7 @@ namespace CoureWebAPI.Core.Services.DataRepository.Services
                 {
                     Id = 3,
                     Name = "Bening Republic",
-                    CountryCode = 229,
+                    CountryCode = "229",
                     CountryIso = "BN",
                     CountryDetails = _countriesDetails.Where(c => c.CountryId == 3)
                 },
@@ -54,7 +54,7 @@ namespace CoureWebAPI.Core.Services.DataRepository.Services
                 {
                     Id = 4,
                     Name = "Cote d'Ivoire",
-                    CountryCode = 225,
+                    CountryCode = "225",
                     CountryIso = "CIV",
                     CountryDetails = _countriesDetails.Where(c => c.CountryId == 4)
                 }
